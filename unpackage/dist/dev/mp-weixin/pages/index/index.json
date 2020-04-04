@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "纵向Table",
+  "usingComponents": {
+    "p-table": "/components/portrait_table/portrait_table"
+  }
+}
